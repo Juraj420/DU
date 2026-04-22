@@ -1,0 +1,88 @@
+ČASŤ 1: Setup a základy
+1. CLI vs GUI
+ Čo znamená CLI?
+ Cez čo komunikujeme s CLI nástrojom?
+ Čo znamená GUI?
+ Ako sa CLI ľahko... (automatizácia)?
+ Cez čo funguje CLI vzdialene?
+ Na čo je CLI menej náročné?
+2. Sessions
+ Dva dôvody, prečo začať novú session
+ČASŤ 2: Base usage a IDE integrácia
+3. Konfigurácia
+ Prečo lokálne nastavenia nie sú v Git repozitári?
+4. Context Window a Tokeny
+ Čo je compaction?
+ Aká je nevýhoda compaction?
+5. IDE Integrácie
+ Prečo používať IDE integrácie? (ľahšie sa...)
+ČASŤ 3: Advance Permissions Management
+6. Permissions
+ Čo stále vyžaduje povolenie? (2 odpovede)
+7. Dangerous Mode
+ Čo môže AI urobiť s git históriou?
+ Čo môže AI urobiť so súbormi?
+ Aké skripty môže AI spustiť?
+ S akým prostredím sa dangerous mode kombinuje?
+8. Sandbox
+ Ako si predstaviť sandbox? (prirovnanie)
+ČASŤ 4: Version Control a Undo
+9. Vracanie zmien
+ Dva dôvody, prečo je Git dôležitý pri práci s AI
+ Čo je dobré urobiť pred väčšími zmenami?
+ČASŤ 5: Plan Mode
+10. Plan Mode
+ Pri akých úlohách použiť Plan Mode?
+ Kedy si... výsledkom?
+ Aké úlohy ovplyvňujú...?
+ Čomu predídeš zbytočným...?
+ Kedy môžeš ovplyvniť riešenie?
+ Čo AI lepšie...?
+ČASŤ 6: Context Engineering a projektové inštrukcie
+11. SPEC.md
+ Prečo je lepšie odkazovať na SPEC.md z CLAUDE.md?
+12. Projektové inštrukcie
+ Súčasťou čoho sa stáva CLAUDE.md pri načítaní?
+ Prečo má byť CLAUDE.md stručný?
+13. Context Engineering
+ Aké informácie pridávať? (relevantnosť)
+ Čo šetríme stručnosťou?
+ Prečo používať formátovanie?
+ Prečo sú XML tagy lepšie?
+ČASŤ 7: Nástroje a rozšírenia
+15. Thinking Mode
+ Čo spotrebuje thinking mode viac?
+ Aká je odpoveď s thinking mode?
+ Pri akých úlohách ho vypnúť?
+16. Práca s dokumentáciou
+ Čo šetrí Markdown dokumentácia?
+ Ako sa lepšie... Markdown?
+17. MCP
+ Čo umožňuje MCP server pre dokumentáciu?
+ČASŤ 8: Skills a Custom Commands
+18. Skills
+ Výhoda používania hotových skills?
+ČASŤ 9: Hooks a Plugins
+20. Hooks
+ Po čom sa hook spustí? (príklad)
+ Čo hook vykoná? (príklad)
+ČASŤ 10: Feedback Loops a Multi-Agent systémy
+22. Feedback Loops
+ Čo robí AI v kroku 2 feedback loop?
+ Čo umožňuje Playwright?
+ Aká je nevýhoda feedback loops? (spotreba)
+ Aké testy má AI tendenciu písať?
+ Čo robiť s testami písanými AI?
+23. Multi-Agent systémy
+ Pre čo sú Ralph Loops vhodné?
+ Čo je menšie pri Ralph Loops? (kontrola)
+ Čo stále potrebuješ? (plán)
+ 4 veci potrebné pre úspešný Ralph Loop
+Zhrnutie
+24. Prehľad konceptov
+ Spoj 8 pojmov s definíciami (A-H)
+Reflexia
+ Čo ťa najviac zaujalo/prekvapilo?
+ Najväčšie výhody AI asistentov?
+ Najväčšie riziká?
+ Ako využiť vo svojich projektoch?
